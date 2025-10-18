@@ -1,10 +1,12 @@
 #include <iostream>
-#include <algorithm>
+#include <string>
 #include <vector>
+ 
+#define ll long long
 
-void solve(){
+
+void solve (){
 }
-
 
 int main(){
 	int t;
