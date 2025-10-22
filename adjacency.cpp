@@ -66,6 +66,9 @@ int main(){
 
 	auto d = makeList(v);
 
+	// count all paths from A to D
+	// result is 2
+
 	std::cout << dfs('A', 'D', d, 0) << std::endl;
 	std::cout << bfs('A', 'D', d) << std::endl;
 
